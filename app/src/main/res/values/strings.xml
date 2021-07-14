@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NearByLocation</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGE5OWxoYXMiLCJhIjoiY2txejE4bGxjMHlhZzJucGxtYTNocTZyaSJ9.YI4K0ijzk_E7vmL1UPFybA</string>
+    <!--<string name="mapbox_access_token">pk.eyJ1IjoidGE5OWxoYXMiLCJhIjoiY2txejBucmRtMDI3MjJ2c2lpYml4dWM1OCJ9.e4lOOdCBhIqusUF-QJUfNA</string>-->
+    <string name="search_here">Search here</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+
+</resources>
